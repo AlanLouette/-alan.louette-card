@@ -1,0 +1,25 @@
+{
+  "name": "@alan.louette/card",
+  "version": "1.0.0",
+  "description": "My card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanLouette/-alan.louette-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanLouette/-alan.louette-card/issues"
+  },
+  "homepage": "https://github.com/AlanLouette/-alan.louette-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0",
+    "figures": "^3.2.0",
+    "ora": "^4.0.4"
+  }
+}
